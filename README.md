@@ -1,6 +1,6 @@
 # Stock Market Analysis Web App
 
-## Overview [Live Demo](https://darling-palmier-0b28da.netlify.app/)
+## Overview 
 
 This web application is designed for stock market analysis, providing users with interactive charts, key statistics, and a curated list of popular stocks. It allows users to explore stock performance over different time ranges and obtain insights into individual stocks.
 
