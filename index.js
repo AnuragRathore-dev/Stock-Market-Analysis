@@ -1,4 +1,4 @@
-import fetchAndCreateChart from "./charts.js";
+ import fetchAndCreateChart from "./charts.js";
 let st = "AAPL";
 fetchAndCreateChart("5y", st);
 
